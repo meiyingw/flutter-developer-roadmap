@@ -12,6 +12,36 @@ The purpose of this roadmap is to offer a broad perspective on Flutter and its s
 
 ![Flutter Developer Roadmap](./images/flutter-developer-roadmap.png)
 
+## Useful links
+
+- [Dart documentation](https://dart.dev/guides)
+
+- [Flutter documentation](https://docs.flutter.dev/)
+
+- [Git documentation](https://git-scm.com/doc)
+
+- [Package repository for Dart and Flutter apps](https://pub.dev/)
+
+- [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+
+- [Flutter Persistence](https://docs.flutter.dev/cookbook/persistence)
+
+- [Guided tutorial on how to use GraphQL with Flutter](https://hygraph.com/blog/flutter-graphql)
+
+- [Flutter State Management](https://docs.flutter.dev/data-and-backend/state-mgmt)
+
+- [Flutter Bloc - A predictable state management library for Dart.](https://bloclibrary.dev/)
+
+- [Add Firebase to your Flutter app](https://firebase.google.com/docs/flutter/setup)
+
+- [Flutter Testing and Debugging](https://docs.flutter.dev/testing)
+
+- [Flutter localization: step-by-step](https://localizely.com/blog/flutter-localization-step-by-step/)
+
+- [Google Analytics for Firebase](https://firebase.flutter.dev/docs/analytics/overview)
+
+- [Flutter Deployment](https://docs.flutter.dev/deployment)
+
 ## Feedback
 
 If you find this roadmap valuable and helpful, please consider giving it a star. Your support is greatly appreciated and motivates me to continuously refine and enhance this resource.
